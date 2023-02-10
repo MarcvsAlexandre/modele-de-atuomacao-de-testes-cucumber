@@ -12,12 +12,12 @@
 
 ***Autor:*** -> **Marcus Alexandre**
 
-* Emails: marcus_alexandre98@outlook.com  -  
+* Email: marcus_alexandre98@outlook.com  -  
 * Linkedin: https://www.linkedin.com/in/marcus-vinicius-alexandre-barbosa/
 
 ***Comandos:***
 
-Realize o donwload do projeto template e commit ele no seu repositorio do gitLab
+Realize o donwload do projeto template e commit ele no seu repositorio do gitHub
 
 * **Instale o cypress com o comando**           ```-> npm install cypress```
 * **Execute o runner do cypress**               ```-> npm run cy:open```
